@@ -1,0 +1,3 @@
+Add "s", "'t", "'s"
+
+"a","all","am","an","and","any","are","as","at","be","but","can","did","do","don't","does","for","from","had","has","have","he","her","here","him","his","how","i","if","in","is","it","me","my","mine","no","not","of","on","or","our","she","so","that","the","then","their","there","this","to","too","up","use","we","what","when","where","who","why","you","your"
